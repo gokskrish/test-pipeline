@@ -1,3 +1,3 @@
 # test-pipeline
 
-Testing git taggin
+Testing git tagging and create new tag
